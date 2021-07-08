@@ -1,0 +1,161 @@
+INFO  05:53:06 Application started. Press Ctrl+C to shut down.
+INFO  05:53:06 Hosting environment: Development
+INFO  05:53:06 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+WARN  05:53:18 Failed to determine the https port for redirect.
+INFO  05:53:18 Customer ID string Entered For Searching
+INFO  05:53:18 Calling GetCustomer method of service from controller
+INFO  05:53:18 Calling GetCustomer method of repository from service
+INFO  05:53:19 Returns Customer BankManagmentSystem.Models.User
+INFO  06:53:12 Application started. Press Ctrl+C to shut down.
+INFO  06:53:12 Hosting environment: Development
+INFO  06:53:12 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+INFO  09:56:11 Application started. Press Ctrl+C to shut down.
+INFO  09:56:11 Hosting environment: Development
+INFO  09:56:11 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+INFO  10:01:46 Application started. Press Ctrl+C to shut down.
+INFO  10:01:46 Hosting environment: Development
+INFO  10:01:46 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+WARN  10:02:03 Failed to determine the https port for redirect.
+INFO  10:02:04 Customer ID string Entered For Searching
+INFO  10:02:04 Calling GetCustomer method of service from controller
+INFO  10:02:04 Calling GetCustomer method of repository from service
+INFO  10:02:05 Returns Customer BankManagmentSystem.Models.User
+INFO  10:07:08 Application started. Press Ctrl+C to shut down.
+INFO  10:07:08 Hosting environment: Development
+INFO  10:07:08 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+INFO  12:02:54 Application started. Press Ctrl+C to shut down.
+INFO  12:02:54 Hosting environment: Development
+INFO  12:02:54 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+WARN  12:03:07 Failed to determine the https port for redirect.
+INFO  12:03:08 UserName string and Password string Entered For Authentication
+INFO  12:03:08 Calling AuthenticateUser method of service from controller
+INFO  12:03:08 Calling CheckCredentials method of repository from service
+INFO  12:03:09 UserName string and Password string Entered For Authentication
+INFO  12:03:09 Calling AuthenticateUser method of service from controller
+INFO  12:03:09 Calling CheckCredentials method of repository from service
+INFO  12:03:18 UserName string and Password string Entered For Authentication
+INFO  12:03:18 Calling AuthenticateUser method of service from controller
+INFO  12:03:18 Calling CheckCredentials method of repository from service
+INFO  12:03:19 UserName string and Password string Entered For Authentication
+INFO  12:03:19 Calling AuthenticateUser method of service from controller
+INFO  12:03:19 Calling CheckCredentials method of repository from service
+INFO  12:03:20 Customer ID string Entered For Searching
+INFO  12:03:20 Calling GetCustomer method of service from controller
+INFO  12:03:20 Calling GetCustomer method of repository from service
+INFO  12:03:20 Returns Customer BankManagmentSystem.Models.User
+INFO  12:03:43 Customer ID string Entered For Searching
+INFO  12:03:43 Calling GetCustomer method of service from controller
+INFO  12:03:43 Calling GetCustomer method of repository from service
+INFO  12:03:43 Returns Customer BankManagmentSystem.Models.User
+INFO  10:47:02 Application started. Press Ctrl+C to shut down.
+INFO  10:47:02 Hosting environment: Development
+INFO  10:47:02 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+WARN  10:47:39 Failed to determine the https port for redirect.
+INFO  10:47:40 UserName test@12 and Password test123 Entered For Authentication
+INFO  10:47:40 Calling AuthenticateUser method of service from controller
+INFO  10:47:40 Calling CheckCredentials method of repository from service
+INFO  10:47:54 UserName string and Password string Entered For Authentication
+INFO  10:47:54 Calling AuthenticateUser method of service from controller
+INFO  10:47:54 Calling CheckCredentials method of repository from service
+INFO  10:47:55 UserName string and Password string Entered For Authentication
+INFO  10:47:55 Calling AuthenticateUser method of service from controller
+INFO  10:47:55 Calling CheckCredentials method of repository from service
+INFO  10:48:09  Entered For Registration
+INFO  10:48:09 Calling AddCustomer method of service from controller
+INFO  10:48:09 Calling AddCustomer method of repository from service
+INFO  10:48:09 Returns Customer BankManagmentSystem.Models.User
+INFO  10:48:30 UserName string and Password stg Entered For Authentication
+INFO  10:48:30 Calling AuthenticateUser method of service from controller
+INFO  10:48:30 Calling CheckCredentials method of repository from service
+INFO  10:48:40 UserName string and Password string Entered For Authentication
+INFO  10:48:40 Calling AuthenticateUser method of service from controller
+INFO  10:48:40 Calling CheckCredentials method of repository from service
+INFO  10:51:03 UserName test@12 and Password test123 Entered For Authentication
+INFO  10:51:03 Calling AuthenticateUser method of service from controller
+INFO  10:51:03 Calling CheckCredentials method of repository from service
+INFO  10:51:18 UserName string and Password string Entered For Authentication
+INFO  10:51:18 Calling AuthenticateUser method of service from controller
+INFO  10:51:18 Calling CheckCredentials method of repository from service
+INFO  10:51:18 UserName string and Password string Entered For Authentication
+INFO  10:51:18 Calling AuthenticateUser method of service from controller
+INFO  10:51:18 Calling CheckCredentials method of repository from service
+INFO  10:51:18 Customer ID string Entered For Searching
+INFO  10:51:18 Calling GetCustomer method of service from controller
+INFO  10:51:18 Calling GetCustomer method of repository from service
+INFO  10:51:18 Returns Customer BankManagmentSystem.Models.User
+INFO  10:51:31  Entered For Registration
+INFO  10:51:31 Calling AddCustomer method of service from controller
+INFO  10:51:31 Calling AddCustomer method of repository from service
+INFO  10:51:31 Returns Customer BankManagmentSystem.Models.User
+INFO  10:35:05 Application started. Press Ctrl+C to shut down.
+INFO  10:35:05 Hosting environment: Development
+INFO  10:35:05 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+WARN  10:35:46 Failed to determine the https port for redirect.
+INFO  10:35:47 UserName test@12 and Password test123 Entered For Authentication
+INFO  10:35:47 Calling AuthenticateUser method of service from controller
+INFO  10:35:47 Calling CheckCredentials method of repository from service
+INFO  10:36:03 UserName string and Password string Entered For Authentication
+INFO  10:36:03 Calling AuthenticateUser method of service from controller
+INFO  10:36:03 Calling CheckCredentials method of repository from service
+INFO  10:36:03 UserName string and Password string Entered For Authentication
+INFO  10:36:03 Calling AuthenticateUser method of service from controller
+INFO  10:36:03 Calling CheckCredentials method of repository from service
+INFO  10:36:19  Entered For Registration
+INFO  10:36:19 Calling AddCustomer method of service from controller
+INFO  10:36:19 Calling AddCustomer method of repository from service
+INFO  10:36:19 Returns Customer BankManagmentSystem.Models.User
+INFO  10:37:02 UserName test@12 and Password test123 Entered For Authentication
+INFO  10:37:02 Calling AuthenticateUser method of service from controller
+INFO  10:37:02 Calling CheckCredentials method of repository from service
+INFO  10:37:18 UserName string and Password string Entered For Authentication
+INFO  10:37:18 Calling AuthenticateUser method of service from controller
+INFO  10:37:18 Calling CheckCredentials method of repository from service
+INFO  10:37:18 UserName string and Password string Entered For Authentication
+INFO  10:37:18 Calling AuthenticateUser method of service from controller
+INFO  10:37:18 Calling CheckCredentials method of repository from service
+INFO  10:37:18 Customer ID string Entered For Searching
+INFO  10:37:18 Calling GetCustomer method of service from controller
+INFO  10:37:18 Calling GetCustomer method of repository from service
+INFO  10:37:18 Returns Customer BankManagmentSystem.Models.User
+INFO  10:37:35  Entered For Registration
+INFO  10:37:35 Calling AddCustomer method of service from controller
+INFO  10:37:35 Calling AddCustomer method of repository from service
+INFO  10:37:35 Returns Customer BankManagmentSystem.Models.User
+INFO  10:57:33 Application started. Press Ctrl+C to shut down.
+INFO  10:57:34 Hosting environment: Development
+INFO  10:57:34 Content root path: C:\Users\Vijay\source\repos\BankManagmentSystem
+WARN  10:58:05 Failed to determine the https port for redirect.
+INFO  10:58:06 UserName test@12 and Password test123 Entered For Authentication
+INFO  10:58:06 Calling AuthenticateUser method of service from controller
+INFO  10:58:06 Calling CheckCredentials method of repository from service
+INFO  10:58:22 UserName string and Password string Entered For Authentication
+INFO  10:58:22 Calling AuthenticateUser method of service from controller
+INFO  10:58:22 Calling CheckCredentials method of repository from service
+INFO  10:58:22 UserName string and Password string Entered For Authentication
+INFO  10:58:22 Calling AuthenticateUser method of service from controller
+INFO  10:58:22 Calling CheckCredentials method of repository from service
+INFO  10:58:40  Entered For Registration
+INFO  10:58:40 Calling AddCustomer method of service from controller
+INFO  10:58:40 Calling AddCustomer method of repository from service
+INFO  10:58:41 Returns Customer BankManagmentSystem.Models.User
+INFO  10:59:01 UserName test@12 and Password test123 Entered For Authentication
+INFO  10:59:01 Calling AuthenticateUser method of service from controller
+INFO  10:59:01 Calling CheckCredentials method of repository from service
+INFO  10:59:17 UserName string and Password string Entered For Authentication
+INFO  10:59:17 Calling AuthenticateUser method of service from controller
+INFO  10:59:17 Calling CheckCredentials method of repository from service
+INFO  10:59:17 UserName string and Password string Entered For Authentication
+INFO  10:59:17 Calling AuthenticateUser method of service from controller
+INFO  10:59:17 Calling CheckCredentials method of repository from service
+INFO  10:59:17 Customer ID string Entered For Searching
+INFO  10:59:17 Calling GetCustomer method of service from controller
+INFO  10:59:17 Calling GetCustomer method of repository from service
+INFO  10:59:17 Returns Customer BankManagmentSystem.Models.User
+INFO  10:59:33  Entered For Registration
+INFO  10:59:33 Calling AddCustomer method of service from controller
+INFO  10:59:33 Calling AddCustomer method of repository from service
+INFO  10:59:33 Returns Customer BankManagmentSystem.Models.User
+INFO  11:00:27 Customer ID string Entered For Searching
+INFO  11:00:27 Calling GetCustomer method of service from controller
+INFO  11:00:27 Calling GetCustomer method of repository from service
+INFO  11:00:27 Returns Customer BankManagmentSystem.Models.User
